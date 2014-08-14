@@ -21,3 +21,26 @@
     color: #f0f0f0;
     background-color: black;
 }
+
+#nv, #or, #wa, #co, #nm, #mt, #wy, #ut, #az, #ct, #vt, #ny, #nj, #ma, #il, #oh, #hi,
+#md, #va, #ok, #tx, #pa, #nh, #id, #dc, #ks, #ne
+{
+    color: #FF00FF
+}
+
+#al, #la, #fl, #me, #ri, #nc, #ga, #nd, #sd, #wv, #sc
+{
+ color: #FFFF00
+}
+
+#ca
+{
+color: #00FFFF
+}
+
+#ak {
+    background: url('http://www.enchantedlearning.com/usa/flags/alaska/alaskaflag.GIF') no-repeat center fixed;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    -webkit-background-clip: text;
+}
